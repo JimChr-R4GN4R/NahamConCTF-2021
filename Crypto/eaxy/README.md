@@ -1,3 +1,7 @@
+Crypto is eaxy, it's all about math and keys :) 
+
+#####################################################
+
 Firstly I ensured that it's not a file like .png etc by bruteforcing with https://github.com/JimChr-R4GN4R/TaurusG4T3 .
 
 So after getting no result,I decided to xor the file with all 255 possible bytes.
