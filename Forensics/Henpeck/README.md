@@ -1,3 +1,7 @@
+So I'll be honest, I never actually went through the Mavis Beacon program... 
+
+###########################################################################
+
 Got help from here: https://www.programmersought.com/article/52335860604/
 
 
