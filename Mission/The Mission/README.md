@@ -1,4 +1,4 @@
-Enter the flag you find on The Mission page to open the gates and unlock challenges for The Mission. Please note, your participation in "The Mission" serves as permission for us to share your e-mail address with our sponsors, for potential career opportunities and private invitations to vulnerability disclosure and bug bounty programs.
+Enter the flag you find on The Mission (https://ctf.nahamcon.com/mission) page to open the gates and unlock challenges for The Mission. Please note, your participation in "The Mission" serves as permission for us to share your e-mail address with our sponsors, for potential career opportunities and private invitations to vulnerability disclosure and bug bounty programs.
 
 ###################################################################################
 
