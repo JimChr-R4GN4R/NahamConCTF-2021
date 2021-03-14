@@ -1,4 +1,9 @@
+You know what to do. :) 
+
+##############################
+
 Firstly installed the app and saw that there is a login form.
+
 Tried to login and was getting message 'ERROR'.
 
 After that I opened the app with jadx and searched for things liek 'flag','password', etc. with no results.
