@@ -1,5 +1,7 @@
+A Vortex? No... an Abyss.
+
 Connect with: Password is userpass
-ssh -p 32140 user@challenge.nahamcon.com
+ssh -p XXXXX user@challenge.nahamcon.com
 
 #########################################
 
