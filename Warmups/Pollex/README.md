@@ -9,6 +9,7 @@ The flag ends in these characters: 8fe36bc00}
 I used this tool: https://29a.ch/photo-forensics/#thumbnail-analysis
 
 After a while did `thumbnail analysis`:
+
 ![image](https://user-images.githubusercontent.com/59511698/111086184-79dfed00-8523-11eb-837e-72f4eb09260b.png)
 
 Used this to extract the letters: https://www.onlineocr.net/
