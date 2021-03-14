@@ -1,3 +1,15 @@
+Recover the list of employees working at CONSTELLATIONS.
+
+With the flag of this challenge, you should find new information that will help with future challenges.
+
+You should find the flag for this challenge ON THIS constellations.page website. You will not find it on GitHub.
+
+HINT: "Can we please stop sharing our version control software out on our website?"
+
+HINT AGAIN: you are looking for a publicly accessible version control software folder published on the constellations.page website itself 
+
+###############################################################################################################################################
+
 After a while, I Checked the hints:
 
 HINT: "Can we please stop sharing our version control software out on our website?"
