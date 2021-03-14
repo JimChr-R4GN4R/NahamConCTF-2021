@@ -1,8 +1,5 @@
-Connect with:
-
-# Password is userpass
+Connect with: Password is userpass
 ssh -p 32140 user@challenge.nahamcon.com
-
 
 #########################################
 
