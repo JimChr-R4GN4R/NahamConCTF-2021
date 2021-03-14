@@ -8,7 +8,7 @@ HINT: "Can we please stop sharing our version control software out on our websit
 
 HINT AGAIN: you are looking for a publicly accessible version control software folder published on the constellations.page website itself 
 
-###############################################################################################################################################
+#################################################################################################################
 
 After a while, I Checked the hints:
 
